@@ -15,8 +15,5 @@ require 'nokogiri'
       }
     end
   # return the projects hash
-    project
+    projects
   end
-
-
-
